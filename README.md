@@ -14,12 +14,12 @@ Intimacy is an essential element of human relationships and language is a crucia
 ## 📝 Task Description
 SemEval 2023 Task 9: Multilingual Tweet Intimacy Analysis (Pei et al., 2022) is a task that deals with detecting intimacy in 10 languages. This task is co-organized by University of Michigan and Snap Inc. Intimacy is a fundamental aspect of human relationships, and studying intimacy in a textual context has many potential applications in the field of computational linguistics. The training data is available in 6 languages: English, Spanish, Italian, Portuguese, French, and Chinese. The evaluation is done on the given training languages, as well as 6 unseen languages: Hindi, Arabic, Dutch and Korean.
 ## 🔨 Dependencies
-1. `simpletransformers`
-2. `pandas`
-3. `numpy`
-4. `sklearn`
-5. `googletrans`
-6. `matplotlib`
+- `simpletransformers`
+-  `pandas`
+- `numpy`
+- `sklearn`
+- `googletrans`
+- `matplotlib`
 ## 📞 Contact
 If you have any questions or issues, please feel free to reach out [Aaryak Garg](https://www.linkedin.com/in/aaryak-garg-7b202b184/) at [aaryak.ug20@nsut.ac.in](aaryak.ug20@nsut.ac.in).
 ## 🖊 Citation
