@@ -1,7 +1,7 @@
 # 🐋 WADER 
 Implementation of the paper [A Weak-labelling framework for Data augmentation in tExt Regression Tasks](https://arxiv.org/abs/2303.02758) under review at SemEval 2023, colocated with ACL 2023.
 
-**Authors:** [Manan Suri*](https://www.linkedin.com/in/manansuri27),[Aaryak Garg*](https://www.linkedin.com/in/aaryak-garg-7b202b184/),Divya Chaudhary, Ian Gorton and Bijendra Kumar.
+**Authors:** [Aaryak Garg*](https://www.linkedin.com/in/aaryak-garg-7b202b184/), [Manan Suri*](https://www.linkedin.com/in/manansuri27),Divya Chaudhary, Ian Gorton and Bijendra Kumar.
 
 ![WADER DIAGRAM](https://cdn.discordapp.com/attachments/891317274936483871/1088939844782264330/WADER_diagrams-Copy_of_Page-1.drawio.png)
 
@@ -26,7 +26,7 @@ If you have any questions or issues, please feel free to reach out [Aaryak Garg]
 ```
 @misc{suri2023wader,
       title={WADER at SemEval-2023 Task 9: A Weak-labelling framework for Data augmentation in tExt Regression Tasks}, 
-      author={Manan Suri and Aaryak Garg and Divya Chaudhary and Ian Gorton and Bijendra Kumar},
+      author={Aaryak Garg and Manan Suri and Divya Chaudhary and Ian Gorton and Bijendra Kumar},
       year={2023},
       eprint={2303.02758},
       archivePrefix={arXiv},
